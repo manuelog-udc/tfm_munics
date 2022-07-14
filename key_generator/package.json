@@ -1,0 +1,10 @@
+{
+  "name": "zk-scripts",
+  "version": "1.0.0",
+  "description": "Scripts to interact with contract",
+  "license": "MIT",
+  "dependencies": {
+    "circomlib": "0.0.20",
+    "snarkjs": "0.1.20"
+  }
+}

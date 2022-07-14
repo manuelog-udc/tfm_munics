@@ -1,0 +1,13 @@
+**/node_modules/
+**/package-lock.json
+**artifacts/
+**cache/
+circom/circuit/recoveryModule_cpp
+circom/circuit/recoveryModule.r1cs
+circom/circuit/recoveryModule.sym
+circom/inputs
+circom/phase2
+circom/powers_of_tau
+circom/proofs
+circom/results
+circom/solidity
